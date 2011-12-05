@@ -1,0 +1,8 @@
+
+[[file:index.org][Main]] | [[file:more.org][More]]
+
+#+BEGIN_HTML
+
+<p>Write here whatever HTML code you need to include in every page.</p>
+
+#+END_HTML 
